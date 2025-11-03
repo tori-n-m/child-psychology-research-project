@@ -1,0 +1,9 @@
+# research-trauma-brain/configs/config.yaml
+# Edit these paths when you add your dataset to Kaggle or local.
+dataset_root: "/kaggle/input/YOUR_DATASET_FOLDER"   # change to your dataset path
+image_size: 224
+valid_pct: 0.2
+bs: 32
+epochs: 5
+model_name: "resnet34"
+random_seed: 42
