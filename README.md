@@ -1,6 +1,6 @@
 # Research: Traumatic Experiences & Brain (Image Classification + Segmentation)
 
-This repo skeleton mirrors the plan we outlined. Start with **classification** on a medical image dataset, then add **segmentation** later. It’s designed for **Kaggle (GPU)** training and **PyCharm** local scripting.
+This repo skeleton mirrors the plan outlined. Start with **classification** on a medical image dataset, then add **segmentation** later. It’s designed for **Kaggle (GPU)** training and **PyCharm** local scripting.
 
 ## Quickstart (Classification)
 1. **Open Kaggle Notebook** → Enable **GPU** and **Internet**.
